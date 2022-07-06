@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'database.int.mobilise.academy' );
 
 /** Database username */
-define( 'DB_USER', 'admin' );
+define( 'DB_USER', 'academy_admin’ ' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'password_here' );
+define( 'DB_PASSWORD', 'Mobilise_Academy123' );
 
 /** Database hostname */
 define( 'DB_HOST', 'database.int.mobilise.academy' );
