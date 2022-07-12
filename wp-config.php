@@ -20,10 +20,10 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'database.int.mobilise.academy' );
+define( 'DB_NAME', 'wordpress_db' );
 
 /** Database username */
-define( 'DB_USER', 'academy_admin’ ' );
+define( 'DB_USER', 'academy_admin' );
 
 /** Database password */
 define( 'DB_PASSWORD', 'Mobilise_Academy123' );
