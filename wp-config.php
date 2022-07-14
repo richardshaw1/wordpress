@@ -18,6 +18,10 @@
  * @package WordPress
  */
 
+// Custom settings for use in the Mobilise Academy
+define( 'WP_HOME', 'https://www.INITS.mobilise.academy' );
+define( 'WP_SITEURL', 'https://www.INITS.mobilise.academy' );
+
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define( 'DB_NAME', 'wordpress_db' );
