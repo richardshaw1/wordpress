@@ -33,7 +33,7 @@ define( 'DB_USER', 'academy_admin' );
 define( 'DB_PASSWORD', 'Mobilise_Academy123' );
 
 /** Database hostname */
-define( 'DB_HOST', 'database.int.mobilise.academy' );
+define( 'DB_HOST', 'database.internal.mobilise.academy' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
